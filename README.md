@@ -3,13 +3,11 @@
 Tensorflow Speech Recognition Challenge was a Kaggle competition organised by Google Brain  to use the Speech Commands Dataset to build an algorithm that understands simple spoken commands.
 https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 
-This solution achieved a rank of 63 on private leaderboard (top 5%).
-
 ## Project Structure
 - data
-	- raw
-		- train (Training audio files)
-		- test (Test audio files used for evaluation
+       - raw
+	  - train (Training audio files)
+	    - test (Test audio files used for evaluation
 - libs
 	- classification (All scripts used for training and evaluation)
 -  notebooks
