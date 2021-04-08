@@ -20,7 +20,7 @@ https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 |_00 Exploratory Data Analysis.ipynb/
 |_ _ _
 
-**- libraries**
+   - **libraries**
 |_classification/
 |_.gitkeep
 
@@ -30,7 +30,7 @@ https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 |_ds_cnn/
 |_ds_cnn_spec|
 |_gru\
-|_lstm_l\
+|_Istm_I\
 
 - **scripts (Executable scripts)**
 |_execute_notebook.py
