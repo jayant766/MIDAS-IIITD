@@ -6,7 +6,7 @@ https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 ## Project Structure
 - DataVisualizationImages
 - data
-- ocumented_jupyter_notebook
+- documented_jupyter_notebook
 - libraries
 - models (Pretrained Models)
 - cripts (Executable scripts)
