@@ -5,22 +5,34 @@ https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 
 ## Project Structure
 - **DataVisualizationImages**
-|_ AccuracyCNN.png
+|_AccuracyCNN.png
 |_ _ _
 - **data**
-|_ train_testing
-|_ train_testing
-|_ train_testing_sp
-|_ train-validation
+|_train_testing/
+|_train_testing/
+|_train_testing_sp/
+|_train-validation/
 - **documented_jupyter_notebook**
--|_ ipynb-checkpoint
--|_.gitkeep
--|_00 Exploratory Data Analysis.ipynb
-
-- libraries
-- models (Pretrained Models)
-- scripts (Executable scripts)
-- visual
+|_ipynb-checkpoint/
+|_.gitkeep/
+|_00 Exploratory Data Analysis.ipynb/
+|_ _ _
+**- libraries**
+|_classification/
+|_.gitkeep
+- **models (Pretrained Models)**
+|_c_rnn/
+|_convlstm/
+|_ds_cnn/
+|_ds_cnn_spec\
+|_gru\
+|_lstm_l\
+- **scripts (Executable scripts)**
+|_execute_notebook.py
+- **visual**
+|_PCA.png
+|_README.md
+|_ _ _ 
 
 ## Requirements
 1. Tensorflow 1.4
