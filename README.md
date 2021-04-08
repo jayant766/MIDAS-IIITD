@@ -4,9 +4,10 @@ Tensorflow Speech Recognition Challenge was a Kaggle competition organised by Go
 https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 
 ## Project Structure
-- DataVisualizationImages
-|_ _ _ 
-- data
+- **DataVisualizationImages**
+|_ AccuracyCNN.png
+|---
+- **data**
 |_ train_testing
 |_ train_testing
 |_ train_testing_sp
