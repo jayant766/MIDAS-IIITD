@@ -7,26 +7,31 @@ https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 - **DataVisualizationImages**
 |_AccuracyCNN.png
 |_ _ _
+
 - **data**
 |_train_testing/
 |_train_testing/
 |_train_testing_sp/
 |_train-validation/
+
 - **documented_jupyter_notebook**
 |_ipynb-checkpoint/
 |_.gitkeep/
 |_00 Exploratory Data Analysis.ipynb/
 |_ _ _
+
 **- libraries**
 |_classification/
 |_.gitkeep
+
 - **models (Pretrained Models)**
 |_c_rnn/
 |_convlstm/
 |_ds_cnn/
-|_ds_cnn_spec\
+|_ds_cnn_spec|
 |_gru\
 |_lstm_l\
+
 - **scripts (Executable scripts)**
 |_execute_notebook.py
 - **visual**
