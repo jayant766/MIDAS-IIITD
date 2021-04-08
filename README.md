@@ -19,7 +19,7 @@ https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 4. Python 3.x
 
 ## Running
-Download the Speech Commands Dataset and extract the dataset in the train folder. Test Audio can be placed in data/test/audio folder.
+Download the Speech Commands Dataset and extract the dataset in the data folder.
 
 The notebooks can be run individually using Jupyter. To run the scripts from command line edit the notebooks using Jupyter and run:
 
@@ -55,4 +55,3 @@ The final model was a ensemble 13 models. Weighted Averaging and Stacking was us
 2.  Very Deep Convolutional Neural Network for Robust Speech Recognition (https://arxiv.org/pdf/1610.00277.pdf)
 3. Speech Commands Dataset (https://research.googleblog.com/2017/08/launching-speech-commands-dataset.html)
 
-If you like this project or have any queries don't hesitate to send an email to subhojeetpramanik@gmail.com
