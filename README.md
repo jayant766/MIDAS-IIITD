@@ -8,9 +8,9 @@ https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 	- raw
 		- train (Training audio files)
 		- test (Test audio files used for evaluation
-- libs
+- libraries
 	- classification (All scripts used for training and evaluation)
--  notebooks
+- documented_jupyter_notebook
 - scripts (Executable scripts)
 - models (Pretrained Models)
 
