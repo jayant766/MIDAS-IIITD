@@ -4,15 +4,13 @@ Tensorflow Speech Recognition Challenge was a Kaggle competition organised by Go
 https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 
 ## Project Structure
+- DataVisualizationImages
 - data
-	- raw
-		- train (Training audio files)
-		- test (Test audio files used for evaluation
+- ocumented_jupyter_notebook
 - libraries
-	- classification (All scripts used for training and evaluation)
-- documented_jupyter_notebook
-- scripts (Executable scripts)
 - models (Pretrained Models)
+- cripts (Executable scripts)
+- visual
 
 ## Requirements
 1. Tensorflow 1.4
