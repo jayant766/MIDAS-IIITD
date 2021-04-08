@@ -9,7 +9,7 @@ https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 - documented_jupyter_notebook
 - libraries
 - models (Pretrained Models)
-- cripts (Executable scripts)
+- scripts (Executable scripts)
 - visual
 
 ## Requirements
