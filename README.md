@@ -6,13 +6,17 @@ https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 ## Project Structure
 - **DataVisualizationImages**
 |_ AccuracyCNN.png
-|---
+|_ _ _
 - **data**
 |_ train_testing
 |_ train_testing
 |_ train_testing_sp
 |_ train-validation
-- documented_jupyter_notebook
+- **documented_jupyter_notebook**
+-|_ ipynb-checkpoint
+-|_.gitkeep
+-|_00 Exploratory Data Analysis.ipynb
+
 - libraries
 - models (Pretrained Models)
 - scripts (Executable scripts)
