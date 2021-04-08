@@ -5,7 +5,12 @@ https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 
 ## Project Structure
 - DataVisualizationImages
+|_ _ _ 
 - data
+|_ train_testing
+|_ train_testing
+|_ train_testing_sp
+|_ train-validation
 - documented_jupyter_notebook
 - libraries
 - models (Pretrained Models)
