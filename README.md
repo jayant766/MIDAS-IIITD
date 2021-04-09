@@ -37,7 +37,9 @@ httрs://www.kаggle.соm/с/tensоrflоw-sрeeсh-reсоgnitiоn-сhаllenge
 |_execute_notebook.py
 - **visual**
 |_PCA.png
+
 -**License**
+
 -**README.md**
 
 
