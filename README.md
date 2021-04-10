@@ -9,6 +9,10 @@ httрs://www.kаggle.соm/с/tensоrflоw-sрeeсh-reсоgnitiоn-сhаllenge
 |_AccuracyCNN.png
 |_ _ _
 
+**Entry_snapshot**
+|_screenshot_1
+|_screenshot_2
+
 - **data**
 |_train_testing/
 |_train_testing/
