@@ -25,7 +25,7 @@ httрs://www.kаggle.соm/с/tensоrflоw-sрeeсh-reсоgnitiоn-сhаllenge
 |_00 Exploratory Data Analysis.ipynb/
 |_ _ _
 
-   - **libraries**
+- **libraries**
 |_classification/
 |_.gitkeep
 
