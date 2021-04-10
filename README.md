@@ -46,7 +46,7 @@ httрs://www.kаggle.соm/с/tensоrflоw-sрeeсh-reсоgnitiоn-сhаllenge
 
 - **README.md**
 
-- **Report **
+- **Report**
 
 
 ## Requirements
