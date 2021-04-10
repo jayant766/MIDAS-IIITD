@@ -42,11 +42,11 @@ httрs://www.kаggle.соm/с/tensоrflоw-sрeeсh-reсоgnitiоn-сhаllenge
 - **visual**
 |_PCA.png
 
--**License**
+- **License**
 
--**README.md**
+- **README.md**
 
--**Report **
+- **Report **
 
 
 ## Requirements
